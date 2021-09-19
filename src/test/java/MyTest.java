@@ -14,7 +14,6 @@ public class MyTest {
             assertEquals(Solution.check(new Object[]{'t', 'e', 's', 't'}, 'e'), true);
             assertEquals(Solution.check(new Object[]{"what", "a", "great", "kata"}, "kat"), false);
         }
-
     }
 
     class Solution {
